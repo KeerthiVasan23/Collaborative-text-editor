@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="serve">Serve!</string>
+    <string name="create">Create</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="type_here">Type Here...</string>
+    <string name="untitled">FileName</string>
+</resources>
